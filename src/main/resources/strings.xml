@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<strings>
+    <helloText>Print 'help' for see commands list</helloText>
+    <help>Type:
+        add [book name] - to add book
+        edit [book name] - to edit book
+        remove [book name] - to remove book
+        all - to see all books in library
+        exit - to leave program
+    </help>
+    <editMessage>enter new name</editMessage>
+    <bookNotFound>book with such name not found</bookNotFound>
+    <fewBooks>we have few books with such name please choose one by typing a number of book:</fewBooks>
+    <canceled>canceled by user</canceled>
+    <emptyLibrary>Library is empty. Type 'help' to see how add book</emptyLibrary>
+</strings>
